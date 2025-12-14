@@ -135,6 +135,9 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+## 🎥 Video Demo
+
+https://github.com/user-attachments/assets/4b551c2a-8f11-43d3-8547-797e5e7ea42e
 
 ## 🧪 Example Use Cases
 
