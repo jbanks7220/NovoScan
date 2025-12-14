@@ -119,7 +119,7 @@ cd novoscan-vuln-scanner
 python -m venv venv
 venv\Scripts\activate  # Windows 
 ```
-## OR
+ OR
 ```
 python -m venv venv
 source venv/bin/activate # linux
